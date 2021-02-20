@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="software_thumbnails">
+    <file>thumbnails/Houdini3D_icon.png</file>
+    <file>thumbnails/maya_.png</file>
+    <file>thumbnails/nukex.png</file>
+    <file>thumbnails/unreal.jpg</file>
+  </qresource>
+  <qresource prefix="project_thumbnails">
+    <file>thumbnails/aquama1.jpg</file>
+    <file>thumbnails/batman vs superman.jpg</file>
+    <file>thumbnails/blackadam.jpg</file>
+    <file>thumbnails/joke1.jpg</file>
+    <file>thumbnails/justiec league.jpg</file>
+    <file>thumbnails/the-flash1.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>shotgun icons/cil-user.png</file>
+    <file>shotgun icons/search-50.png</file>
+  </qresource>
+</RCC>
